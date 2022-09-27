@@ -2,4 +2,5 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 
-LIterature Survey by KISHORE KUMAR,GOKULNATH,BALAJJI,MEGASH
+LIterature Survey by KISHORE KUMAR, GOKULNATH, BALAJJI, MEGASH
+ 
