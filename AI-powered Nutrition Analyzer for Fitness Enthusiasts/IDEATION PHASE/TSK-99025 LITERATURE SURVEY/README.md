@@ -2,4 +2,4 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 
-Empathy Map by KISHORE KUMAR R
+Empathy Map by KISHORE KUMAR,GOKULNATH,BALAJJI,MEGASH
